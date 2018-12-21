@@ -67,6 +67,55 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\images\advanced  boot feature Addon Rom Display Mode force bios.png" />
+    <Content Include="Content\images\advanced  boot feature quiet boot enabled.png" />
+    <Content Include="Content\images\advanced  boot feature.png" />
+    <Content Include="Content\images\advanced  menu PCIePCIPNP configuration 1.png" />
+    <Content Include="Content\images\advanced  menu PCIePCIPNP configuration 2.png" />
+    <Content Include="Content\images\advanced  menu PCIePCIPNP configuration onboard lan1 oprom 1.png" />
+    <Content Include="Content\images\advanced  menu PCIePCIPNP configuration onboard lan1 oprom 2 disabled.png" />
+    <Content Include="Content\images\advanced  menu PCIePCIPNP configuration onboard lan2 oprom 1.png" />
+    <Content Include="Content\images\advanced  menu PCIePCIPNP configuration onboard lan2 oprom disabled.png" />
+    <Content Include="Content\images\antillion.png" />
+    <Content Include="Content\images\bios1.png" />
+    <Content Include="Content\images\bios2.png" />
+    <Content Include="Content\images\bios3.png" />
+    <Content Include="Content\images\bios4.png" />
+    <Content Include="Content\images\bios5.png" />
+    <Content Include="Content\images\bios6.png" />
+    <Content Include="Content\images\bios7.png" />
+    <Content Include="Content\images\bios8.png" />
+    <Content Include="Content\images\boot menu dualboot order #2 usb cd-dvd-aten virtualcdrom YSOJ enabled.png" />
+    <Content Include="Content\images\boot menu dualboot order #2 usb cd-dvd-aten virtualcdrom YSOJ.png" />
+    <Content Include="Content\images\boot menu dualboot order #2.png" />
+    <Content Include="Content\images\boot menu Hard disk drive BBS Priorities ASR Raid Controller 0.png" />
+    <Content Include="Content\images\boot menu Hard disk drive BBS Priorities.png" />
+    <Content Include="Content\images\main-system date.png" />
+    <Content Include="Content\images\Save n Exit F4.png" />
+    <Content Include="Content\images\save n exit Restore optimised defaults-prompt.png" />
+    <Content Include="Content\images\save n exit Restore optimised defaults.png" />
+    <Content Include="Content\images\supermicro.png" />
+    <Content Include="index.html" />
+    <Content Include="page7.html" />
+    <Content Include="page2.html" />
+    <Content Include="page3.html" />
+    <Content Include="page5.html" />
+    <Content Include="page6.html" />
+    <Content Include="page4.html" />
+    <Content Include="Scripts\index.js" />
+    <Content Include="Scripts\page2.js" />
+    <Content Include="Scripts\page4.js" />
+    <Content Include="Scripts\page5.js" />
+    <Content Include="Scripts\page6.js" />
+    <Content Include="Scripts\page7.js" />
+    <Content Include="Scripts\page3.js" />
+    <Content Include="Styles\index.css" />
+    <Content Include="Styles\page2.css" />
+    <Content Include="Styles\page4.css" />
+    <Content Include="Styles\page5.css" />
+    <Content Include="Styles\page6.css" />
+    <Content Include="Styles\page7.css" />
+    <Content Include="Styles\page3.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +130,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
